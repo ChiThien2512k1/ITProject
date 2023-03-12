@@ -11,9 +11,15 @@ da cham bai
 ngay 12/3/2023 đã sửa
  dùng sourcetree
 dùng sourcetree lần 2
+<<<<<<< HEAD
 
 thay doi nd ben nhanh main
 
 dùng sourcetree lần 3 
 
 noi dung o nhanh c them vao
+=======
+dùng sourcetree lần 3 
+
+noi dung them o nhanh c lan 2
+>>>>>>> NhanVienC
